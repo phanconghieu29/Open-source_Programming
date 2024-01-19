@@ -1,1 +1,1 @@
-# Open-source_Programming HUIT subject
+# Open-source_Programming HUIT course
